@@ -1,4 +1,4 @@
-Timestamp,Temperature,Water Leak,Location,Pipe Burst,
+Timestamp,Temperature,Water Leak,Location,Pipe Burst
 2018-12-31 23:59:59,30,Yes,123 Street Herndon,Yes
 2019-01-01 01:00:00,30,Yes,256 Street Herndon,Yes
 2018-12-31 23:59:59,35,No,456 Street Herndon,No
